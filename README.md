@@ -12,4 +12,13 @@ Project made with:
  - JavaScript (AJAX).
 
 The goal for this project is to make another, one of thousands on the internet, self watering plant. 
-Not ready yet.
+Not ready yet. Button with bulb image is responsible for "light" for the plant. Button with a drop is
+responsible for watering. Last watering is shown in the section above buttons. The goal is to make light
+and pump turning to mode "on" when the sunlight and soil humidity drops below designated level despite ability turning 
+them on with those buttons.
+
+![](https://github.com/rafalBaron/plant-control-website/blob/main/plant.gif)
+
+Tried to make it a bit responsive, some problems occurred but I will fix them of course in the future.
+
+![](https://github.com/rafalBaron/plant-control-website/blob/main/plant2.gif)

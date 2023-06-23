@@ -28,4 +28,4 @@ Tried to make it a bit responsive, some problems occurred but I will fix them of
 
 Final version given straight to the Professor
 
-![](https://github.com/rafalBaron/plant-control-website/blob/main/resp.png) ![](https://github.com/rafalBaron/plant-control-website/blob/main/resp2.png)
+![](https://github.com/rafalBaron/plant-control-website/blob/main/resp.png) ![](https://github.com/rafalBaron/plant-control-website/blob/main/respo2.png)

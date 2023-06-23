@@ -11,8 +11,8 @@ Project made with:
  - CSS,
  - JavaScript (AJAX).
 
-!!!!!! Images, style.css, script.js should be in "static" directory, index.html should be in "templates" directory
-!!!!!! and then "static", "templates" and app.py should be in one directory also.
+/* Images, style.css, script.js should be in "static" directory, index.html should be in "templates" directory and then "static", "templates" 
+and app.py should be in one directory also. */
 
 The goal for this project is to make another, one of thousands on the internet, self watering plant. 
 Not ready yet. Button with bulb image is responsible for "light" for the plant. Button with a drop is
@@ -25,3 +25,7 @@ them on with those buttons.
 Tried to make it a bit responsive, some problems occurred but I will fix them of course in the future.
 
 ![](https://github.com/rafalBaron/plant-control-website/blob/main/plant2.gif)
+
+Final version given straight to the Professor
+
+![](https://github.com/rafalBaron/plant-control-website/blob/main/resp.png) ![](https://github.com/rafalBaron/plant-control-website/blob/main/resp2.png)

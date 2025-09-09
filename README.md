@@ -11,9 +11,6 @@ Project made with:
  - CSS,
  - JavaScript (AJAX).
 
-/* Images, style.css, script.js should be in "static" directory, index.html should be in "templates" directory and then "static", "templates" 
-and app.py should be in one directory also. */
-
 The goal for this project is to make another, one of thousands on the internet, self watering plant. 
 Not ready yet. Button with bulb image is responsible for "light" for the plant. Button with a drop is
 responsible for watering. Last watering is shown in the section above buttons. The goal is to make light
